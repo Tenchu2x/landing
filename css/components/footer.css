@@ -1,0 +1,19 @@
+.footer {
+  background-size: cover;
+  background-position: center;
+  background-color: #242424;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.social {
+  font-size: 50px;
+  color: #fc4586;
+  padding: 0;
+  margin: 0;
+}
+
+.social .fa {
+  padding: 10px;
+}
